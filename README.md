@@ -24,4 +24,5 @@ What you need to develop a Smart Contract
 - Open Zeppelin to create a smart contract 
 - ERC720 and ERC721 are two types of contract 
 - Mintable is an NFT marketplace 
+- Minting means creating a unique token on Blockchain 
 
