@@ -25,4 +25,5 @@ What you need to develop a Smart Contract
 - ERC720 and ERC721 are two types of contract 
 - Mintable is an NFT marketplace 
 - Minting means creating a unique token on Blockchain 
+- Something
 
